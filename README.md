@@ -1,0 +1,1 @@
+# Machine-learning-approach-to-predict-ZT-value-of-Thermoelectrics
